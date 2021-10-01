@@ -25,5 +25,4 @@ export class CartComponent {
     console.warn('Your order has been submitted', this.checkoutForm.value);
     this.checkoutForm.reset();
   }
-
 }
